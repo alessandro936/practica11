@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="practica_1.views.home2">
+    <Grid RowDefinitions="*,*">
+        <Button Grid.Column="1" Text="libro universidad " TextTransform="Uppercase"/>
+        <Button Grid.Column="0" Text="libro colegio" TextTransform="Uppercase"/>
+        <Image Grid.Column="0" Grid.Row="1" Source="https://i.pinimg.com/736x/36/ca/5e/36ca5eb6f9f82a8e8d588d0f61ed6679.jpg"/>
+        <Image Grid.Column="1" Grid.Row="1" Source="https://i.pinimg.com/736x/36/ca/5e/36ca5eb6f9f82a8e8d588d0f61ed6679.jpg"/>
+    </Grid>
+</ContentPage>

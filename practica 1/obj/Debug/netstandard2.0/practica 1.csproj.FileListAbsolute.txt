@@ -1,0 +1,17 @@
+D:\XAMANIN\practica 1\practica 1\obj\Debug\netstandard2.0\practica 1.csproj.AssemblyReference.cache
+D:\XAMANIN\practica 1\practica 1\obj\Debug\netstandard2.0\practica 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\XAMANIN\practica 1\practica 1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\XAMANIN\practica 1\practica 1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\XAMANIN\practica 1\practica 1\obj\Debug\netstandard2.0\views\Home.xaml.g.cs
+D:\XAMANIN\practica 1\practica 1\obj\Debug\netstandard2.0\practica 1.AssemblyInfoInputs.cache
+D:\XAMANIN\practica 1\practica 1\obj\Debug\netstandard2.0\practica 1.AssemblyInfo.cs
+D:\XAMANIN\practica 1\practica 1\obj\Debug\netstandard2.0\practica 1.csproj.CoreCompileInputs.cache
+D:\XAMANIN\practica 1\practica 1\obj\Debug\netstandard2.0\practica 1.dll
+D:\XAMANIN\practica 1\practica 1\obj\Debug\netstandard2.0\refint\practica 1.dll
+D:\XAMANIN\practica 1\practica 1\obj\Debug\netstandard2.0\practica 1.pdb
+D:\XAMANIN\practica 1\practica 1\bin\Debug\netstandard2.0\practica 1.deps.json
+D:\XAMANIN\practica 1\practica 1\bin\Debug\netstandard2.0\practica 1.dll
+D:\XAMANIN\practica 1\practica 1\bin\Debug\netstandard2.0\ref\practica 1.dll
+D:\XAMANIN\practica 1\practica 1\bin\Debug\netstandard2.0\practica 1.pdb
+D:\XAMANIN\practica 1\practica 1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\XAMANIN\practica 1\practica 1\obj\Debug\netstandard2.0\views\home2.xaml.g.cs
